@@ -4,7 +4,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <h1>Главный компонент на странице</h1>
+      <h1>App - главный компонент на странице</h1>
     </div>
   );
 }
